@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Aston_Lesson_2</string>
+    <string-array name="analyticalPieChartColorArray">
+        <item>#FF0000</item>
+        <item>#FFA500</item>
+        <item>#FFFF00</item>
+        <item>#008000</item>
+        <item>#ADD8E6</item>
+        <item>#0000FF</item>
+        <item>#800080</item>
+    </string-array>
 </resources>
