@@ -20,15 +20,7 @@
             android:id="@+id/drum_view"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
-            app:drumChartCircleSectionSpace="2"
-            app:drumChartCircleStrokeWidth="6dp"
-            app:drumChartColors="@array/analyticalPieChartColorArray"
-            app:drumChartTextAmountColor="?android:attr/textColor"
-            app:drumChartTextDescriptionColor="?android:attr/textColorHint"
-            app:drumChartTextDescriptionSize="14sp"
-            app:drumChartTextNumberColor="?android:attr/textColor"
-            app:drumChartTextNumberSize="16sp" />
+            android:layout_marginTop="12dp" />
 
     </LinearLayout>
 
